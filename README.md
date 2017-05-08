@@ -1,7 +1,7 @@
 Fetch Images
 ============
 
-This python script can be used to download images from a web page. Python v2.7.10 used.
+This python script downloads images from a web page. Python v2.7.10 used.
 
 ## How to execute
 If python installation is found in PATH env, simply copy the script to a local directory and execute the script.
